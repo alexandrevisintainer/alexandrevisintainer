@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Alexandre Visintainer
 
-- 👀 Atualmente estudo e Busco trabalhar na área de FontEnd e automação
+- 👀 Atualmente estudo e Busco trabalhar na área de FrontEnd e automação
 - 🌱 Faço faculdade de Engenharia de software
 - 📫 Contate-me no email: alexandrevisintainer@outlook.com
 
